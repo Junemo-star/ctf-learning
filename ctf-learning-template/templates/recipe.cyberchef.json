@@ -1,0 +1,9 @@
+{
+  "op": "XOR",
+  "args": [
+    "%0x42%",
+    "Standard",
+    false
+  ],
+  "notes": "ใส่ recipe จริงที่ใช้ในโจทย์นี้"
+}
