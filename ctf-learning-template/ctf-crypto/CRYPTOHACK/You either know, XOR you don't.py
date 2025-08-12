@@ -15,6 +15,3 @@ key_part = xor(key[:len(known_pt)], known_pt)
 full_key = b'myXORkey'
 
 print(xor(key, full_key))
-
-import math
-print((math.gcd(66528, 52920)))
