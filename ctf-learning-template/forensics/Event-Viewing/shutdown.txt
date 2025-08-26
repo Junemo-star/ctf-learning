@@ -1,0 +1,114 @@
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: Microsoft-Windows-Security-Auditing
+      Guid: 54849625-5478-4994-A5BA-3E3B0328C30D
+    EventID: 4657
+    Version: 0
+    Level: 0
+    Task: 12801
+    Opcode: 0
+    Keywords: '0x8020000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T15:56:19.103196Z
+    EventRecordID: 168656
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 4
+      ThreadID: 1084
+    Channel: Security
+    Computer: DESKTOP-EKVR84B
+    Security: null
+  EventData:
+    SubjectUserSid: S-1-5-21-3576963320-1344788273-4164204335-1001
+    SubjectUserName: user
+    SubjectDomainName: DESKTOP-EKVR84B
+    SubjectLogonId: '0x5a428'
+    ObjectName: \REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+    ObjectValueName: Immediate Shutdown (MXNfYV9wcjN0dHlfdXMzZnVsXw==)
+    HandleId: '0x208'
+    OperationType: '%%1904'
+    OldValueType: '-'
+    OldValue: '-'
+    NewValueType: '%%1873'
+    NewValue: C:\Program Files (x86)\Totally_Legit_Software\custom_shutdown.exe
+    ProcessId: '0x1bd0'
+    ProcessName: C:\Program Files (x86)\Totally_Legit_Software\Totally_Legit_Software.exe
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: User32
+      Guid: '{b0aa8734-56f7-41cc-b2f4-de228e98b946}'
+      EventSourceName: User32
+    EventID_attributes:
+      Qualifiers: 32768
+    EventID: 1074
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x8080000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T17:01:05.393583Z
+    EventRecordID: 3801
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 432
+      ThreadID: 3496
+    Channel: System
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    param1: C:\Windows\system32\shutdown.exe (DESKTOP-EKVR84B)
+    param2: DESKTOP-EKVR84B
+    param3: No title for this reason could be found
+    param4: '0x800000ff'
+    param5: shutdown
+    param6: dDAwbF84MWJhM2ZlOX0=
+    param7: DESKTOP-EKVR84B\user
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: User32
+      Guid: '{b0aa8734-56f7-41cc-b2f4-de228e98b946}'
+      EventSourceName: User32
+    EventID_attributes:
+      Qualifiers: 32768
+    EventID: 1074
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x8080000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T17:02:35.208712Z
+    EventRecordID: 3863
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 428
+      ThreadID: 592
+    Channel: System
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    param1: C:\Windows\system32\shutdown.exe (DESKTOP-EKVR84B)
+    param2: DESKTOP-EKVR84B
+    param3: No title for this reason could be found
+    param4: '0x800000ff'
+    param5: shutdown
+    param6: dDAwbF84MWJhM2ZlOX0=
+    param7: DESKTOP-EKVR84B\user
+

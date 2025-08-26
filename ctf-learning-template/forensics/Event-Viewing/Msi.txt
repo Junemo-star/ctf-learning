@@ -1,0 +1,1924 @@
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T15:55:55.970787Z
+    EventRecordID: 2370
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\Users\user\Desktop\Totally_Legit_Software.msi
+    - '9004'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T15:55:57.729798Z
+    EventRecordID: 2371
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\Users\user\Desktop\Totally_Legit_Software.msi
+    - '9004'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T15:55:57.729798Z
+    EventRecordID: 2372
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: Totally_Legit_Software -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B33443343333833332D444544362D343032322D423541312D4537463337373839433339307D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T15:55:57.729798Z
+    EventRecordID: 2373
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - Totally_Legit_Software
+    - 1.3.3.7
+    - '0'
+    - '0'
+    - cGljb0NURntFdjNudF92aTN3djNyXw==
+    - (NULL)
+    - ''
+    Binary: 7B33443343333833332D444544362D343032322D423541312D4537463337373839433339307D3030303037363533376239373032333966396130373530633431623838363466646163393030303030303030
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:45.065878Z
+    EventRecordID: 2384
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\Program Files (x86)\Microsoft Visual Studio\Installer\TestMsi\Microsoft.VisualStudio.Setup.TestMsi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:45.222421Z
+    EventRecordID: 2385
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: Microsoft Visual Studio Setup Test MSI -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B32363736383836302D434245422D343038442D394633302D3837453044424531314136457D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:45.222421Z
+    EventRecordID: 2386
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - Microsoft Visual Studio Setup Test MSI
+    - 0.1.0
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B32363736383836302D434245422D343038442D394633302D3837453044424531314136457D3030303061643065323036306533656263316332646366356261653763383561383761333030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:45.237602Z
+    EventRecordID: 2387
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\Program Files (x86)\Microsoft Visual Studio\Installer\TestMsi\Microsoft.VisualStudio.Setup.TestMsi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:58.112573Z
+    EventRecordID: 2394
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Setup.Configuration,version=3.9.2148.60653\Microsoft.VisualStudio.Setup.Configuration.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:58.597179Z
+    EventRecordID: 2395
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: Microsoft Visual Studio Setup Configuration -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B36453744393545312D444132412D344445442D413843362D3346424131373134444236327D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:58.597179Z
+    EventRecordID: 2396
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - Microsoft Visual Studio Setup Configuration
+    - 3.9.2148.60653
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B36453744393545312D444132412D344445442D413843362D3346424131373134444236327D3030303034663934383336393733353365313333373038646235356436653037396664653030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:58.628366Z
+    EventRecordID: 2397
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Setup.Configuration,version=3.9.2148.60653\Microsoft.VisualStudio.Setup.Configuration.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:58.721961Z
+    EventRecordID: 2398
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Setup.WMIProvider,version=3.9.2148.60653\Microsoft.VisualStudio.Setup.WMIProvider.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:59.956464Z
+    EventRecordID: 2402
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: Microsoft Visual Studio Setup WMI Provider -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B30414333394231422D344146432D343638342D423232432D3632353834384531364339327D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:59.956464Z
+    EventRecordID: 2403
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - Microsoft Visual Studio Setup WMI Provider
+    - 3.9.2148.60653
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B30414333394231422D344146432D343638342D423232432D3632353834384531364339327D3030303031343534633661323363336665636232373137353639303335306535343965633030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:33:59.987898Z
+    EventRecordID: 2404
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Setup.WMIProvider,version=3.9.2148.60653\Microsoft.VisualStudio.Setup.WMIProvider.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:18.581825Z
+    EventRecordID: 2406
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.VsWebProtocolSelector.Msi,version=17.10.34803.213\Microsoft.VisualStudio.VsWebProtocolSelector.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:18.815983Z
+    EventRecordID: 2407
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: vs_vswebprotocolselectormsi -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B36364443434535372D313346372D343341432D423136452D3438454135433839383036447D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:18.815983Z
+    EventRecordID: 2408
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - vs_vswebprotocolselectormsi
+    - 17.10.34803
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B36364443434535372D313346372D343341432D423136452D3438454135433839383036447D3030303061343833346538366639363565326634343632393066393263646530666162323030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:18.831443Z
+    EventRecordID: 2409
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.VsWebProtocolSelector.Msi,version=17.10.34803.213\Microsoft.VisualStudio.VsWebProtocolSelector.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:18.878258Z
+    EventRecordID: 2410
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.GitHubProtocolHandler.Msi,version=17.10.34803.213\Microsoft.VisualStudio.GitHubProtocolHandler.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:19.097264Z
+    EventRecordID: 2411
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: vs_githubprotocolhandlermsi -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B37323339454646332D363343342D343734422D383734422D3541373336344532343345457D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:19.097264Z
+    EventRecordID: 2412
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - vs_githubprotocolhandlermsi
+    - 17.10.34803
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B37323339454646332D363343342D343734422D383734422D3541373336344532343345457D3030303034316335383863666262653532343765623234386234353938396166626336663030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:19.112770Z
+    EventRecordID: 2413
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.GitHubProtocolHandler.Msi,version=17.10.34803.213\Microsoft.VisualStudio.GitHubProtocolHandler.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:23.581728Z
+    EventRecordID: 2418
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\CoreEditorFonts,version=17.7.40001.1,productarch=neutral\CoreEditorFonts.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:23.878397Z
+    EventRecordID: 2419
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: vs_CoreEditorFonts -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B31383531343630452D304536332D343131372D423542412D3235413246303435383031427D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:23.878397Z
+    EventRecordID: 2420
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - vs_CoreEditorFonts
+    - 17.7.40001
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B31383531343630452D304536332D343131372D423542412D3235413246303435383031427D3030303031383331393663313431333433643636386235653935653235653938356462313030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:23.893909Z
+    EventRecordID: 2421
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\CoreEditorFonts,version=17.7.40001.1,productarch=neutral\CoreEditorFonts.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.050467Z
+    EventRecordID: 2422
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.MinShell.Msi.Resources,version=17.10.34804.30,language=en-US\Microsoft.VisualStudio.MinShell.Msi.Resources.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.253406Z
+    EventRecordID: 2423
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: vs_minshellmsires -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B34363533323838462D454242362D344141422D394244362D4533343734314630423544307D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.253406Z
+    EventRecordID: 2424
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - vs_minshellmsires
+    - 17.10.34804
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B34363533323838462D454242362D344141422D394244362D4533343734314630423544307D3030303030636662663065383266613565336561373364633938376265396534306561363030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.253406Z
+    EventRecordID: 2425
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.MinShell.Msi.Resources,version=17.10.34804.30,language=en-US\Microsoft.VisualStudio.MinShell.Msi.Resources.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.284513Z
+    EventRecordID: 2426
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.MinShell.Shared.Msi,version=17.10.34804.30\Microsoft.VisualStudio.MinShell.Shared.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.534921Z
+    EventRecordID: 2427
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: vs_minshellsharedmsi -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B45333744373245322D364530362D344636452D393643352D3935433846304235314536457D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.534921Z
+    EventRecordID: 2428
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - vs_minshellsharedmsi
+    - 17.10.34804
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B45333744373245322D364530362D344636452D393643352D3935433846304235314536457D3030303030373932356533343432383539393830616635353561373964333761393330323030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.550467Z
+    EventRecordID: 2429
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.MinShell.Shared.Msi,version=17.10.34804.30\Microsoft.VisualStudio.MinShell.Shared.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.581481Z
+    EventRecordID: 2430
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.MinShell.Msi,version=17.10.34804.30,productarch=x64\Microsoft.VisualStudio.MinShell.x64.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.784602Z
+    EventRecordID: 2438
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: vs_minshellx64msi -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B32333643323730412D453944452D344442452D393031452D3846413446463642433644337D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.784602Z
+    EventRecordID: 2439
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - vs_minshellx64msi
+    - 17.10.34804
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B32333643323730412D453944452D344442452D393031452D3846413446463642433644337D3030303066303164353034323663326364383666636665336234663432306265306235333030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.800480Z
+    EventRecordID: 2440
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.MinShell.Msi,version=17.10.34804.30,productarch=x64\Microsoft.VisualStudio.MinShell.x64.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:24.847083Z
+    EventRecordID: 2441
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.FileHandler.Msi,version=17.10.34804.30,chip=x86\Microsoft.VisualStudio.FileHandler.Msi.x86.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:25.581599Z
+    EventRecordID: 2442
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: vs_filehandler_x86 -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B35363130303731342D343943422D344232312D393230362D3444443141464444443536467D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:25.581599Z
+    EventRecordID: 2443
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - vs_filehandler_x86
+    - 17.10.34804
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B35363130303731342D343943422D344232312D393230362D3444443141464444443536467D3030303038396238633761633661343839383736643537663864653436373935613633383030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:25.581599Z
+    EventRecordID: 2444
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.FileHandler.Msi,version=17.10.34804.30,chip=x86\Microsoft.VisualStudio.FileHandler.Msi.x86.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:25.628545Z
+    EventRecordID: 2445
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.FileHandler.Msi,version=17.10.34804.30,chip=x64\Microsoft.VisualStudio.FileHandler.Msi.x64.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:26.112685Z
+    EventRecordID: 2450
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: vs_filehandler_amd64 -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B44314335354243322D364434412D343332342D413535432D4341343941383832343330377D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:26.112685Z
+    EventRecordID: 2451
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - vs_filehandler_amd64
+    - 17.10.34804
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B44314335354243322D364434412D343332342D413535432D4341343941383832343330377D3030303038646232643766353538306436623161663462306637376566383435663831383030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:26.128459Z
+    EventRecordID: 2452
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.FileHandler.Msi,version=17.10.34804.30,chip=x64\Microsoft.VisualStudio.FileHandler.Msi.x64.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1040
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:36.018952Z
+    EventRecordID: 2454
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Build.FileTracker.Msi,version=17.10.34804.30\Microsoft.Build.FileTracker.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 11707
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:36.457162Z
+    EventRecordID: 2455
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - 'Product: vs_FileTracker_Singleton -- Installation completed successfully.'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: 7B37453332334637442D333938332D343144392D394437462D4639363144353345423742387D
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1033
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:36.457162Z
+    EventRecordID: 2456
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-21-3576963320-1344788273-4164204335-1001
+  EventData:
+    Data:
+    - vs_FileTracker_Singleton
+    - 17.10.34804
+    - '1033'
+    - '0'
+    - Microsoft Corporation
+    - (NULL)
+    - ''
+    Binary: 7B37453332334637442D333938332D343144392D394437462D4639363144353345423742387D3030303064616261646536326231306331303134393233643538366333626236643439363030303030393034
+
+---
+Event_attributes:
+  xmlns: http://schemas.microsoft.com/win/2004/08/events/event
+Event:
+  System:
+    Provider_attributes:
+      Name: MsiInstaller
+    EventID_attributes:
+      Qualifiers: 0
+    EventID: 1042
+    Version: 0
+    Level: 4
+    Task: 0
+    Opcode: 0
+    Keywords: '0x80000000000000'
+    TimeCreated_attributes:
+      SystemTime: 2024-07-15T16:34:36.472263Z
+    EventRecordID: 2457
+    Correlation: null
+    Execution_attributes:
+      ProcessID: 0
+      ThreadID: 0
+    Channel: Application
+    Computer: DESKTOP-EKVR84B
+    Security_attributes:
+      UserID: S-1-5-18
+  EventData:
+    Data:
+    - C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Build.FileTracker.Msi,version=17.10.34804.30\Microsoft.Build.FileTracker.Msi.msi
+    - '7536'
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - (NULL)
+    - ''
+    Binary: null
+
